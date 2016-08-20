@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/res/merged/debug/layout/button_control.xml",
+        "source": "/Users/marius/Documents/Dev/BLE-Boat/Application/src/main/res/layout/button_control.xml"
+    },
+    {
+        "merged": "/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/res/merged/debug/layout/listitem_device.xml",
+        "source": "/Users/marius/Documents/Dev/BLE-Boat/Application/src/main/res/layout/listitem_device.xml"
+    },
+    {
+        "merged": "/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/res/merged/debug/layout/actionbar_indeterminate_progress.xml",
+        "source": "/Users/marius/Documents/Dev/BLE-Boat/Application/src/main/res/layout/actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/res/merged/debug/layout/gatt_services_characteristics.xml",
+        "source": "/Users/marius/Documents/Dev/BLE-Boat/Application/src/main/res/layout/gatt_services_characteristics.xml"
+    }
+]

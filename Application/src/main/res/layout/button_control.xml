@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="39dp"
+        android:layout_gravity="center_horizontal">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start"
+            android:onClick="onClickControllerVisible"
+            android:id="@+id/btController"
+            android:layout_row="11"
+            android:layout_column="17" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/no_data"
+            android:id="@+id/data_value" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Read Char"
+            android:id="@+id/button"
+            android:onClick="onClickRead"
+            android:textSize="8dp"
+            android:visibility="invisible" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Write Char"
+            android:id="@+id/button2"
+            android:onClick="onClickWrite"
+            android:textSize="8dp"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Left"
+            android:onClick="onClickControlLeft"
+            android:id="@+id/btLt"
+            android:layout_row="0"
+            android:layout_column="0"
+            android:visibility="invisible" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Forward"
+            android:id="@+id/btFw"
+            android:onClick="onClickControlForward"
+            android:layout_gravity="center_horizontal"
+            android:layout_row="0"
+            android:layout_column="2"
+            android:visibility="invisible" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Right"
+            android:id="@+id/btRt"
+            android:onClick="onClickControlRight"
+            android:layout_gravity="right"
+            android:layout_row="0"
+            android:layout_column="3"
+            android:visibility="invisible" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Back"
+            android:onClick="onClickControlBackward"
+            android:id="@+id/btBk"
+            android:layout_gravity="center_horizontal"
+            android:layout_row="1"
+            android:layout_column="2"
+            android:visibility="invisible" />
+
+        <com.example.android.BLEboat.JoyStick
+            android:id="@+id/joy1"
+            android:layout_width="307dp"
+            android:layout_height="324dp"
+            android:layout_gravity="bottom|center_horizontal"
+            android:layout_row="3"
+            android:layout_column="0"
+            android:layout_columnSpan="3"
+            android:layout_rowSpan="2" />
+
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="100dp"
+            android:text="Fire"
+            android:onClick="onClickControlFire"
+            android:id="@+id/btFire"
+            android:layout_gravity="center_horizontal"
+            android:layout_row="3"
+            android:layout_column="3" />
+
+        <Button
+            android:layout_width="70dp"
+            android:layout_height="50dp"
+            android:text="Off"
+            android:onClick="onClickControlFireOff"
+            android:id="@+id/btFireOff"
+            android:layout_row="4"
+            android:layout_column="3"
+            android:layout_gravity="bottom" />
+
+    </GridLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal">
+
+    </FrameLayout>
+
+    <com.example.android.BLEboat.GameView
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:id="@+id/game"
+        android:visibility="invisible" />
+
+</LinearLayout>

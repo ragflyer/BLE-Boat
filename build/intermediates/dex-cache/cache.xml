@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="915088dad32f63c08c36f4379a534ad67a6f1e28">
+        <dex dex="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6af939bbc74d9af472a6c9d596b14e7ae7c56e40/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_2c2a38de065f64b04ac5fe558e780492acad3e11/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="674183e33c4daf67c89f50554d59a8d8a99be590">
+        <dex dex="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_631ef6bc8178ba3c8613e5788d69a43ce416056f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_b9e4e49200667060f0ac1b6e57f69320d85ec2fa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marius/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_41161567a7aa07bcd19cc1cf1100f1c320479862/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_be74885467bb24f54f355b9fa3aaff95a9c77672/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-23.3.0_a7687a93a8799171f7e69965600b1197728cdc5c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_3fa332fed3119e7a3e688b1896b1e0b60adc36c9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_ea397ec1a9b588fc13b4a9fc54a8052cf8bec3fe/classes.dex" />
+    </item>
+    <item
+        jar="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="/Users/marius/Documents/Dev/BLE-Boat/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_f923ed93667e67671a6ae99d6de5c69e03e526ab/classes.dex" />
+    </item>
+
+</items>
